@@ -1,10 +1,10 @@
-name: Natureoil
-display_name: Natureoil
-version: 1
+name: classic
+display_name: Classic
+version: 2.1.3
 author:
-  name: "Nada"
-  email: ""
-  url: ""
+  name: "PrestaShop SA and Contributors"
+  email: "contact@prestashop.com"
+  url: "https://www.prestashop-project.org"
 
 meta:
   compatibility:
