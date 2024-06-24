@@ -45,9 +45,7 @@
       <div class="col-md-12">
         <p class="text-sm-center">
           {block name='copyright_link'}
-            <a href="https://www.prestashop-project.org/" target="_blank" rel="noopener noreferrer nofollow">
               Natureoil
-            </a>
           {/block}
         </p>
       </div>
