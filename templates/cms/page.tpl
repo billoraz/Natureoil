@@ -34,7 +34,6 @@
     {block name='cms_content'}
       {$cms.content nofilter}
     {/block}
-pagetest
     {block name='hook_cms_dispute_information'}
       {hook h='displayCMSDisputeInformation'}
     {/block}
